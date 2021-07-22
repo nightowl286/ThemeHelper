@@ -3,9 +3,9 @@
 This is just a small project I made for myself and then thought other people might find it useful, it lets you apply and stack transformations to colours.
 
 [Color inputs](#allowed-color-inputs) •
-[Transformations](#implemented-transformations) •
-[Download](#download)
-
+[Implemented transformations](#implemented-transformations) •
+[Download](#download) •
+[Update files](https://github.com/nightowl286/ThemeHelper/tree/master/ThemeHelper/Transformations)
 ---
 This program will simply let you type in a colour in the left textbox (labelled as **Base**) it will then apply the transformations which you have specified in the textbox at the top, the resulting colour will then appear on the right with the it's corresponding hex value. Example below.
 
@@ -41,3 +41,6 @@ The currently allowed transformations are
 
 ---
 # Download
+The most recent version can be downloaded [from here](https://github.com/nightowl286/ThemeHelper/raw/master/ThemeHelper.zip) it is a simple zip archive which you can extract *(recommended)*, afterwards just run the `ThemeHelper.exe`. Make sure you have the [.NET Core 3.1 Runtime](https://dotnet.microsoft.com/download/dotnet/3.1/runtime) installed. If a self-contained version is requested enough I may also release that.
+
+If you have already downloaded the zip archive once then you can simply update the transformations by downloading the most recent file from [here](https://github.com/nightowl286/ThemeHelper/tree/master/ThemeHelper/Transformations) and then replace the file in the `transforms` folder.
