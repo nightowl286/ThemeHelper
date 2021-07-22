@@ -43,4 +43,4 @@ The currently allowed transformations are
 # Download
 The most recent version can be downloaded [from here](https://github.com/nightowl286/ThemeHelper/releases/download/1.0.3/ThemeHelper.zip) it is a simple zip archive which you can extract *(recommended)*, afterwards just run the `ThemeHelper.exe`. Make sure you have the [.NET Core 3.1 Runtime](https://dotnet.microsoft.com/download/dotnet/3.1/runtime) installed. If a self-contained version is requested enough I may also release that.
 
-If you have already downloaded the zip archive once then you can simply update the transformations by downloading the most recent file from [here](https://github.com/nightowl286/ThemeHelper/tree/master/ThemeHelper/Transformations) and then replace the file in the `transforms` folder.
+If you have already downloaded the zip archive once then you can simply update the transformations by downloading the most recent file from *here - currently not availble as its the only version* and then replace the file in the `transforms` folder.
